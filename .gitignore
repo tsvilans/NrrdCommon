@@ -1,0 +1,5 @@
+src/NrrdCommon/x64
+*.vcxproj.user
+src/NrrdTest/obj
+src/.vs
+bin
